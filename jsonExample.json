@@ -10,6 +10,7 @@
   "contacto": {
     "email": "juan@example.com",
     "teléfono": "+34 123456789",
+    "teléfono2": "+34 123456789",
     "teléfono2": "+34 123456789"
   }
 }
